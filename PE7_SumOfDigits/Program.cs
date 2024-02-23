@@ -9,7 +9,7 @@ namespace PE7_SumOfDigits
     class Program
     {
         static void Main(string[] args)
-        //{
+        { 
             int num, sum = 0, reminder, numForOutput;
 
             Console.Write("Enter your number : ");
