@@ -10,12 +10,12 @@ namespace PE8_PalindromeNumber
     {
         static void Main(string[] args)
         {
-            int num, reverse = 0,reminder, numForOutput;
+            int num, reverse = 0, reminder, initialNumber;
 
             Console.Write("Enter your number : ");
             num = Convert.ToInt32(Console.ReadLine());
 
-            numForOutput = num;
+            initialNumber = num;
 
             while (num > 0)
             {
@@ -23,19 +23,17 @@ namespace PE8_PalindromeNumber
                 reverse = (reverse * 10) + reminder;
                 num = num / 10;
             }
-            if (numForOutput == reverse)
+
+
+            if (initialNumber == reverse)
             {
-                Console.WriteLine("This is palindrome number.");
+                Console.WriteLine($"{initialNumber} is palindrome number.");
             }
             else
             {
-                Console.WriteLine("This is not palindrome number.");
+                Console.WriteLine($"{initialNumber} is not palindrome number.");
             }
-
-
-
-
-
+        
         }
     }
 }
