@@ -31,23 +31,31 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE3_LargerNumber", "PE3_Lar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P8_Switch", "P8_Switch\P8_Switch.csproj", "{59051C73-6527-4837-B550-510556CA3A18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P8_Switch Exercise", "P8_Switch Exercise\P8_Switch Exercise.csproj", "{CD49CB5A-5E72-437F-95CF-EC8A0CC1DF49}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P8_SwitchExercise", "P8_Switch Exercise\P8_SwitchExercise.csproj", "{CD49CB5A-5E72-437F-95CF-EC8A0CC1DF49}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P9_Loops", "P9_Loops\P9_Loops.csproj", "{83D6153F-68F2-4330-91A9-FBA226971C8B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P9_Loop Exercise For Table Of Numbers", "P9_Loop Exercise For Table Of Numbers\P9_Loop Exercise For Table Of Numbers.csproj", "{CF68E5D5-7CD0-4077-B8FD-2C800BDF9F30}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P9_LoopExerciseForTableOfNumbers", "P9_Loop Exercise For Table Of Numbers\P9_LoopExerciseForTableOfNumbers.csproj", "{CF68E5D5-7CD0-4077-B8FD-2C800BDF9F30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P9_Loop Exercise for each characters of name", "P9_Loop Exercise for each characters of name\P9_Loop Exercise for each characters of name.csproj", "{8FBCAC9D-E83B-43FB-9C6E-06B9F719A584}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P9_LoopExerciseForEachCharacters0fName", "P9_Loop Exercise for each characters of name\P9_LoopExerciseForEachCharacters0fName.csproj", "{8FBCAC9D-E83B-43FB-9C6E-06B9F719A584}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P9_Loop Exercise While Sum Of Numbers", "P9_Loop Exercise While Sum Of Numbers\P9_Loop Exercise While Sum Of Numbers.csproj", "{39FBF63C-8775-4774-810C-1F5CE1DFE47E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P9_LoopExerciseWhileSumOfNumbers", "P9_Loop Exercise While Sum Of Numbers\P9_LoopExerciseWhileSumOfNumbers.csproj", "{39FBF63C-8775-4774-810C-1F5CE1DFE47E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE4_Divisibility", "PE4_Divisibility\PE4_Divisibility.csproj", "{FBF2B993-C0E2-46B7-94E4-60F41271F1F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE5_Reverse The Number", "PE5_Reverse The Number\PE5_Reverse The Number.csproj", "{2863E7D6-544C-4BBA-B313-1AF853D039E3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE5_ReverseTheNumber", "PE5_Reverse The Number\PE5_ReverseTheNumber.csproj", "{2863E7D6-544C-4BBA-B313-1AF853D039E3}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10_Array", "P10_Array\P10_Array.csproj", "{76F9675D-B94A-41C2-A851-94F4619C91DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10_Arrays Exercise Friends List", "P10_Arrays Exercise Friends List\P10_Arrays Exercise Friends List.csproj", "{9FFB50AD-7915-447F-AD20-25B83FBB633C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P10_ArraysExerciseFriendsList", "P10_Arrays Exercise Friends List\P10_ArraysExerciseFriendsList.csproj", "{9FFB50AD-7915-447F-AD20-25B83FBB633C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE6_FactorialOfNumber", "PE6_FactorialOfNumber\PE6_FactorialOfNumber.csproj", "{10680C49-1320-4348-B179-A3900D8F86C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE7_SumOfDigits", "PE7_SumOfDigits\PE7_SumOfDigits.csproj", "{A5F51AFA-E8E9-4599-91C6-888664A580FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE8_PalindromeNumber", "PE8_PalindromeNumber\PE8_PalindromeNumber.csproj", "{91477FFE-C26D-4D6D-956A-1DE5CC9310E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PE9_NumberInWords", "PE9_NumberInWords\PE9_NumberInWords.csproj", "{83AA9D17-C60F-4876-8C1C-84869D3DADA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -147,6 +155,22 @@ Global
 		{9FFB50AD-7915-447F-AD20-25B83FBB633C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FFB50AD-7915-447F-AD20-25B83FBB633C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FFB50AD-7915-447F-AD20-25B83FBB633C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10680C49-1320-4348-B179-A3900D8F86C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10680C49-1320-4348-B179-A3900D8F86C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10680C49-1320-4348-B179-A3900D8F86C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10680C49-1320-4348-B179-A3900D8F86C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5F51AFA-E8E9-4599-91C6-888664A580FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F51AFA-E8E9-4599-91C6-888664A580FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F51AFA-E8E9-4599-91C6-888664A580FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F51AFA-E8E9-4599-91C6-888664A580FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91477FFE-C26D-4D6D-956A-1DE5CC9310E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91477FFE-C26D-4D6D-956A-1DE5CC9310E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91477FFE-C26D-4D6D-956A-1DE5CC9310E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91477FFE-C26D-4D6D-956A-1DE5CC9310E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83AA9D17-C60F-4876-8C1C-84869D3DADA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83AA9D17-C60F-4876-8C1C-84869D3DADA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83AA9D17-C60F-4876-8C1C-84869D3DADA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83AA9D17-C60F-4876-8C1C-84869D3DADA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
